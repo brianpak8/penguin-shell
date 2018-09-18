@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brianpak8/penguin-shell/issues"
   },
-  "homepage": "https://github.com/brianpak8/penguin-shell#readme"
+  "homepage": "https://github.com/brianpak8/penguin-shell#readme",
+  "dependencies": {
+    "node-powershell": "^3.3.1"
+  }
 }
